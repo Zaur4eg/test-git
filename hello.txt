@@ -1,1 +1,2 @@
-Hello Git
+Привет из VS Code
+
